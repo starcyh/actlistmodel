@@ -1,10 +1,10 @@
 {
-  "name": "a20190424test",
+  "name": {name},
   "version": "1.0.0",
-  "description": "劳动节活动",
+  "description": {description},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "youhche",
+  "author": {author},
   "license": "ISC"
 }
